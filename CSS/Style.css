@@ -1,0 +1,17 @@
+h1 {
+    color: blueviolet;
+}
+
+p {
+    color:rgb(170, 67, 255)
+}
+
+.BoxDiv {
+    background-color:rgb(109, 191, 197);
+    border-color: rgb(81, 145, 150);
+    border-style: dashed;
+}
+
+.BoxDiv > p {
+    color:rgb(186, 238, 240)
+}
